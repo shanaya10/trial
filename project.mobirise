@@ -38,9 +38,11 @@
       }
     ],
     "uniqCompNum": 10,
-    "versionPublish": "4.12.4",
+    "versionPublish": "5.1.4",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "modified": "2020-08-18T13:30:41.180Z",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
